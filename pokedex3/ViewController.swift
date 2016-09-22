@@ -91,8 +91,6 @@ class ViewController: UIViewController, UICollectionViewDelegate, UICollectionVi
                 cell.configureCell(poke)
             }
             
-            
-            
             return cell
             
         } else {
